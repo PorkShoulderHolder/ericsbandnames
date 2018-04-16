@@ -15,7 +15,7 @@ print(install_reqs)
 
 setup(name='ericsbandnames',
       packages=['ericsbandnames'],
-      version='0.1',
+      version='0.2',
       description='Simple client for scraping the contents of ericsbandnames.com, some of which may be offensive, lewd, and/or puerile. However, majority of them are hilarious.',
       author='Sam Fox Royston (code), Eric Andre (content)',
       author_email='sfoxroyston@gmail.com',
