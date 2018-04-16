@@ -19,9 +19,9 @@ def random_name(n=1, sep=" ", url="http://ericsbandnames.com"):
     else:
         raise ValueError("n must be a positive integer less than or equal to {}".format(len(names)))
 
-if __name__ == "__main__":
+def cli():
     if len(sys.argv) >  1:
-        print random_name(*sys.argv[1:])
+        print(random_name(*sys.argv[1:]))
     else:
-        print random_name()
+        print(random_name())
 

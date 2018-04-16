@@ -1,3 +1,2 @@
 requests
-requests[security]
-beautifulsoup4
+beautifulsoup
