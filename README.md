@@ -20,7 +20,7 @@ pip install ericsbandnames
 ```
 
 #### cli usage
-the cli takes the same optional args as `random_name()`: `(n=<number of names>, sep=<word_serparator>, url=<alternative_url_in_case_he_changegs_it?!?!>)` 
+the cli takes the same optional args as `random_name(n=<number of names>, sep=<word_serparator>, url=<alternative_url_in_case_he_changes_it?!?!>)` 
 ```
 $ ericsbandnames
 Louis Vuitton Colostomy Bag
