@@ -25,3 +25,6 @@ def cli():
     else:
         print(random_name())
 
+if __name__ == '__main__':
+    cli()
+
